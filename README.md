@@ -66,6 +66,7 @@ I tested the power via a breadboard, alternating betwee a 4 pack of AA batteries
 The fiber optic cable was the easiest thing to acquire and work with. I tested two sizes:
 - 0.03in/0.75mm diameter
 - 0.08in/2mm diameter
+
 The 0.75mm was a lot smaller than I anticipated and didn't carry the light as well as the 2mm cable. I did some testing between the two and played with the idea of combining the two sizes on the sleeve. The general feeling I was going for was that the light was coming from my character's veins.
 
 # Crafting Review
